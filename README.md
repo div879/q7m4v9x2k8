@@ -1,4 +1,4 @@
-# EVE Hauling Tracker — Update Repository
+# q7m4v9x2k8 — Update Repository
 
 This repository hosts only the **signed update artifacts** for the EVE Hauling Tracker desktop application:
 
